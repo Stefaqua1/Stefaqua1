@@ -343,6 +343,7 @@ Artikel 36 - Overvallen
 Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restarts.
 Straf ⇨ Categorie 1: een waarschuwing
 
+Het gijzelen van een agent mag vanaf 4 agenten het gijzelen van een burger mag vanaf 1 agent mits dit te maken heeft met een Officiele onderwereld kwestie
 Er wordt verwacht dat er bij een overval door alle partijen logisch nagedacht wordt en er realistische beslissingen worden gemaakt. Hierbij is het belangrijk om zaken zoals no value of life, fail RP, powergaming in het achterhoofd te houden om het voor alle betrokken partijen zo leuk mogelijk te houden.
 Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
 Eventueel NPC's die aanwezig zijn bij een winkeloverval tellen niet mee als gijzelaars.
